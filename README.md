@@ -4,10 +4,10 @@ This repository contains 5 beginner-friendly **Python Command-Line Interface (CL
 Each project helps in learning 📚 **functions, conditionals, loops, and error handling** in Python.  
 
 ## 📌 Projects Included
-1️⃣ Simple Calculator  
-2️⃣ BMI Calculator  
-3️⃣ Unit Converter  
-4️⃣ To-Do List CLI 📝  
+1️⃣ To-Do List CLI 📝
+2️⃣ Unit Converter 
+3️⃣ Guess The Number Game
+4️⃣ BMI Calculator
 5️⃣ Currency Converter 💱  
 
 ## ⚙️ How to Run
